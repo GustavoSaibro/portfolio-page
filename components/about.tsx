@@ -51,9 +51,9 @@ export default function About() {
           JavaScript, NestJs, Django&DjangoRest,React
         </span>
         . I am also familiar with TypeScript, Prisma, NextJs. I am always
-        looking to learn new technologies. I am currently looking for a{" "}
+         looking to learn new technologies. {/* I am currently looking for a{" "} 
         <span className="font-medium">full-time position</span> as a{" "}
-        <span className="underline">data engineer</span>.
+        <span className="underline">data engineer</span>. */}
       </p>
       <p className="mb-3">
         I'm{" "}
